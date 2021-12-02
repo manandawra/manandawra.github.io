@@ -303,7 +303,7 @@ a {
     align-items: center;
     justify-content: space-between;
     height: 45vh;
-    width: 20vw;
+    width: 10vw;
     flex: 1;
     background-color: rgb(249, 215, 76);
     padding: 25px;
@@ -315,7 +315,7 @@ a {
 
 #projects .project-display .project-display-2 img {
     height: 10.9rem;
-    width: 25.8rem;
+    width: 14.8rem;
 }
 
 #projects .project-display .project-display-3 {
